@@ -30,7 +30,7 @@ A variety of visualization techniques were utilized, including line graphs, clus
 ![Interactive Slicers](https://github.com/benmcmahon51/Supermarket_Power_BI_Dashboard/raw/main/dashboard_images/Supermarket_1.JPG)
 
 ## Conclusion:
-The following deductions were produced from dashboard data visualizaitons:
+The following deductions were produced from dashboard data visualizations:
 * Branch C was the highest performing branch in terms of total income and average customer reviews.
 * Branches A and B had very similar performance reviews, with branch B having slightly lower customer reviews and total products sold.
 * Food and Beverage sales accounted for the highest revenue at $2.67K over the three month period.
